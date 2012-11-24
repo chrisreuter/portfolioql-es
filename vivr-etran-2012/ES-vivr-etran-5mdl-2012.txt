@@ -4,8 +4,8 @@
 
 J. ROSAS: ¿Sí, diga? 
 ETUDIANT: Hola, qué tal. Disculpe, ¿podría hablar con el señor o la señora Rosas? 
-J. ROSAS: Soy yo, para servirle. ¿Qué deseaba? 
-ETUDIANT: Qué tal. Me llamo André Martin, le llamo desde París para pedir información sobre la habitación. ¿Todavía está disponible? 
+J. ROSAS: Soy yo, para servirle. ¿Qué desea? 
+ETUDIANT:  Me llamo André Martin, le llamo desde París para pedir información sobre la habitación. ¿Todavía está disponible? 
 J. ROSAS: Ah muy bien. ¿Usted es Francés? 
 ETUDIANT: Sí, soy estudiante de comercio en París. 
 J. ROSAS: ¡Ah, pues habla usted muy bien el español! 
