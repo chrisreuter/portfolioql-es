@@ -10,14 +10,14 @@ J. ROSAS:  ¿Usted es Francés?
 ETUDIANT: Sí, y estudio en una escuela de comercio en París. 
 J. ROSAS: ¡Ah, pues habla usted muy bien el español! 
 ETUDIANT: Muchas gracias. 
-J. ROSAS:  la habitación todavía está disponible, pero he tenido mucha demanda, mucha gente ha preguntado. ¿Me entiende? 
+J. ROSAS: La habitación no se ha alquilado todavia, pero tengo mucha demanda, mucha gente ha preguntado. ¿Me entiende? 
 ETUDIANT: Sí claro. 
 J. ROSAS: Así que si usted está  interesado  debe  decidirse  rapidamente 
 ETUDIANT: Por supuesto. Actualmente estoy en París, así que no puedo visitar el Apartamento por el momento.  
-J. ROSAS: Claro. Pero a ver, dígame. ¿Para cuándo le interesa 
+J. ROSAS: Comprendo. Pero a ver, dígame. ¿Para cuándo le interesa ?
 ETUDIANT: Voy a pasar un semestre en Barcelona a partir de la segunda semana de enero y hasta el final de Junio. 
 J. ROSAS: Ah muy bien. La habitación estara libre   el 6  de enero. 
-ETUDIANT: que bien Voy a hacer un semestre de intercambio en el IESEC; lo conoce ? ¿No está muy lejos? 
+ETUDIANT: Que bien ! Voy a hacer un semestre de intercambio en el IECES; lo conoce ? ¿No está muy lejos del Apartamento? 
 J. ROSAS: Si lo conozco; yo creo que en  metro o autobús, a unos 30 minutos. Pero aquí también tenemos las bicicletas públicas. En bicicleta quizás a unos 45 minutos. 
 ETUDIANT: Perfecto.  la habitación me interesa mucho porque ademas soy fotógrafo aficionado. Me gusta mucho fotografiar la arquitectura. 
 J. ROSAS: Pues aquí está perfecto para eso. Estamos a dos cuadras de la Sagrada Familia. 
@@ -30,17 +30,17 @@ J. ROSAS: Pues debe tener unos 10 o 12 metros cuadrados. , hay una cama individu
 ETUDIANT: No es muy grande. 
 J. ROSAS: No mucho pero ¡lo justo para un estudiante! Además tiene usted acceso a todas las áreas comunes. 
 ETUDIANT: ¿Y qué tan grandes son las áreas comunes? 
-J. ROSAS: Pues la cocina es como de 15 metros cuadrados, el baño de 10 y la sala no sé… tal vez otros 20.
-ETUDIANT: en general no es tan pequeño. y ¿ hay otros gastos aparte? 
+J. ROSAS: Pues la cocina es como de 15 metros cuadrados, el baño de 10 y la sala no sé… tal vez 20 o 25 
+ETUDIANT: en general no es tan pequeño. y ¿ en cuanto a los gastos de servicios  ? 
 J. ROSAS: Todas las facturas están incluidas: gas, agua, teléfono, Internet. Lo único que tiene usted que gastar es en su transporte y comida. Tenemos varios supermercados muy cerca. 
 ETUDIANT: ¡Ah! ¿Y qué tan luminoso es?  
 J. ROSAS: ¡Bastante! Tiene una gran ventana que da al sur. Es muy agradable para leer, estudiar, etc. Disculpe que le pregunte… ¿Es usted soltero? No queremos gente con pareja. 
 ETUDIANT: No se preocupe. Tengo una novia pero ella se va de intercambio a los Estados Unidos. Estará muy lejos. 
 J. ROSAS: Bueno. ¿Tiene usted otra pregunta? 
 ETUDIANT: Quiero ir un fin de semana para visitar su apartamento y otros más. ¿Estará usted en Barcelona dentro de dos sábados? 
-J. ROSAS: Sí, aquí estaré. Si me dice ustad a qué hora pasara;Yo podré ajustarme a su horario. 
-ETUDIANT: Perfecto. ¿Me puede por favor mandar la dirección exacta? 
-J. ROSAS: Sí, muy bien. También le puedo mandar unas fotos. ¿Le interesaría? 
+J. ROSAS: Sí, aquí estaré. Si me dice usted a qué hora pasara;Yo podré ajustarme a su horario. 
+ETUDIANT: Perfecto. ¿Me puede por favor enviar la dirección exacta? 
+J. ROSAS: Sí, con mucho gusto. También le puedo enviar algunas fotos. ¿Le interesaría? 
 ETUDIANT: Eso sería muy bueno. ¿Le puedo dar mi dirección de correo electrónico? 
 J. ROSAS: Un momento, busco pluma y papel. Dígame. 
 ETUDIANT: amartin@frenchmail.fr (se lo deletrea también)
