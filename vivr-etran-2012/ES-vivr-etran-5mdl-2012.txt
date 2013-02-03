@@ -2,7 +2,7 @@
 
 ## 5. Modèle - "UNA HABITACIÓN EN BARCELONA"
 
-J. ROSAS: ¿Sí, diga? digame, Allo, bueno.
+J. ROSAS: Alo, ¿Sí, dígame?
 ETUDIANT: Hola, qué tal. Disculpe, ¿podría hablar con el señor o la señora Rosas? 
 J. ROSAS: Soy yo, La señora Rosas para servirle.  
 ETUDIANT:  Muchas gracias, Me llamo André Martin; le llamo desde París para solicitar información sobre la habitación. ¿Todavía está disponible? 
@@ -10,7 +10,7 @@ J. ROSAS:  ¿Usted es Francés?
 ETUDIANT: Sí, y estudio en una escuela de comercio en París. 
 J. ROSAS: ¡Ah, pues habla usted muy bien el español! 
 ETUDIANT: Muchas gracias. 
-J. ROSAS: La habitación no se ha alquilado todavía, pero tengo mucha demanda, mucha gente ha preguntado ha llamado mucha gente. ¿Me entiende? 
+J. ROSAS: La habitación no se ha alquilado todavía, pero tengo mucha demanda, ha llamado mucha gente. ¿Me entiende? 
 ETUDIANT: Sí claro. 
 J. ROSAS: Así que si usted está  interesado  debe  decidirse  rapidamente 
 ETUDIANT: Por supuesto. Actualmente estoy en París, así que no puedo visitar el Apartamento por el momento.  
@@ -20,8 +20,8 @@ J. ROSAS: Ah muy bien. La habitación estará libre el 6  de enero.
 ETUDIANT: Que bien ! Voy a hacer un semestre de intercambio en el IECES; lo conoce ? ¿No está muy lejos del Apartamento? 
 J. ROSAS: Si lo conozco; yo creo que en  metro o autobús, a unos 30 minutos. Pero aquí también tenemos las bicicletas públicas. En bicicleta quizás a unos 45 minutos. 
 ETUDIANT: Perfecto. la habitación me interesa mucho porque ademas soy fotógrafo aficionado. Me gusta mucho fotografiar la arquitectura.
-J. ROSAS: Pues aquí es ideal para eso; Estamos a dos cuadras (en Espagne = Ecurie) de la Sagrada Familia. il faudrait parler en minutes o dire: queda a dos calles de aqui.
-ETUDIANT: ¡Exacto! Yo fui a Barcelona de vacaciones y la catedral (la Sagrada Familia?) me impresionó mucho. Quisiera fotografiarla la próxima vez
+J. ROSAS: Pues aquí es ideal para eso; Estamos a dos calles de la Sagrada Familia.
+ETUDIANT: ¡Exacto! Yo fui a Barcelona de vacaciones, y la catedral la Sagrada Familia me impresionó mucho. Quisiera fotografiarla la próxima vez
 J. ROSAS: Además, está a unos diez minutos caminando de la Pedrera  de Gaudí. 
 ETUDIANT: ¡Qué bien! dígame ¿Cuántas personas viven en el piso? 
 J. ROSAS:  Mi marido, yo  que trabajo en el banco de España, un chico que estudia leyes y otro más que es el que libera la habitación en enero. 
@@ -47,7 +47,7 @@ ETUDIANT: amartin@orange.fr (se lo deletrea también)
 J. ROSAS: Ya está. ¡Ah! ¡Se me olvidaba algo muy importante! Yo tengo un gato, es muy tranquilo y amistoso. ¿No le molesta? ¿es usted alergico?
 ETUDIANT: No, para nada. estoy acustumbrado a su presencia y me entiendo muy bien con ellos. 
 J. ROSAS: Eso me tranquiliza, no a todo el mundo le gustan.  
-ETUDIANT: Es cierto. Con respecto al alquiler .. Yo puedo ofrecer una fianza (c'est bon) en amérique latinee (dejar un depósito)   por adelantado si el apartamento me gusta. También puedo proponer la garantia de mis padres  
+ETUDIANT: Es cierto. Con respecto al alquiler .. Yo puedo dejar un depósito por adelantado; si el apartamento me gusta. También puedo proponer la garantia de mis padres  
 J. ROSAS: Yo prefiero un aval en España, pero hablaremos de eso aquí, cuando venga
 ETUDIANT: De acuerdo, sin embargo le llevaré algunos documentos.  
 J. ROSAS: Me parece muy bien.Bueno, entonces yo le mandaré un correo electrónico con las fotos y la dirección y usted me hará saber la fecha y la hora de su visita ¿de acuerdo? 
