@@ -15,7 +15,7 @@ Situation
 Pour ses études, un/une étudiant(e) s'installe pour six mois à Barcelone en Espagne. Il/elle doit trouver un logement. Comme les prix des loyers sont très élevés, il/elle cherche une colocation. 
 
 Rôle de l'étudiant(e) (acteur 1)
-Il/elle est étudiant de commerce avec une passion pour la photographie d'architecture.
+Il/elle est étudiant dans une école de commerce avec une passion pour la photographie d'architecture.
 
 Rôle de l'évaluateur (acteur 2) 
 M./Mme Rosas loue une chambre à Barcelone. Il/elle cherche un colocataire. 
